@@ -1,0 +1,30 @@
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:5px dashed purple;
+    background-color: aliceblue;
+}
+
+#result
+{
+    width:360px;
+    height: 250px;
+    border:5px dashed black;
+    background-color: aliceblue;
+}
+
+body{
+    background-color:violet;
+}
+
+.name_of_objects, #result_object_name  , #result_object_accuracy
+{
+  color: yellow;
+}
+
+.heading
+{
+  width: 80%;
+  font-size: 22px;
+}
